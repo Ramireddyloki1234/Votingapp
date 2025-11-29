@@ -1,8 +1,5 @@
 # Voting Application - Java J2EE
 
-### Take a look at this Application
-url: https://swapnilbamble1438.github.io/VotingApplication/
-
 ### It is Java J2EE Application. Build in Eclipse IDE using Maven.
 
 
@@ -29,9 +26,7 @@ url: https://swapnilbamble1438.github.io/VotingApplication/
 - In Eclipse
 - Click on File
 - Select Import
-- Select Projects from Git(with smart import) -> Next
-- Select Clone URI -> Next
-- In URI paste this url: https://github.com/swapnilbamble1438/VotingAppJ2EE.git
+- Select Projects from Git(with smart import)
   -> Next
 -  Now in Local Destination
 
